@@ -1,0 +1,441 @@
+body {
+background-color: /*#61892f*//*#24305e*//*#88bdbc*//*#254e58*/#41b3a3;
+margin: 0px;
+font-family: "Maiandra GD" , helvetica , arial;
+font-size: 14px;
+}
+
+#header {
+	background-color: #8ee4af;
+	height: 85px;
+	border-radius: 9px;
+	margin: 10px;
+}
+
+h1 {
+	font-size: 65px;
+	color: #379683;
+	text-align: center;
+	padding: 1px;
+}
+
+#navbar {
+	background-color: #edf5e1;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 400px;
+	border-radius: 9px; 
+	padding: 2px;
+}
+
+#navbar ol{
+	font-size: 20px;
+	color: #5cdb95;
+}
+
+#navbar ol li{
+	padding: 2px;
+}
+
+#navbar ol li a{
+	padding: 2px;
+	color: #5cdb95;
+}
+
+#navbar ol li a:hover{
+	color: #edf5e1;
+	background-color: #5cdb95;
+}
+
+h2.conhead {
+	text-align: center;
+	color: #379683;
+	font-size: 25px;
+}
+
+#origin {
+	background-color: #edf5e1;
+	height: 346px;
+	/*width: 914px;*/
+	border-radius: 9px; 
+	padding: 2px;
+    position: absolute;
+    top: 150px;
+    left: 425px;
+    margin-right: 10px;
+}
+
+h2.originhead {
+	color: #379683;
+	font-size: 45px;
+	text-align: center;
+	margin: 2px;
+}
+
+.originpara {
+	color: #14a760;
+	font-size: 20px;
+	padding: 1px;
+	padding-left: 3px;
+}
+
+#imagepeople {
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 0px;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+}
+
+#imagepeople:hover {
+	opacity: 0.6;
+}
+
+#language {
+	background-color: #edf5e1;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 0px;
+	/*width: 670px;*/
+	border-radius: 9px; 
+	float: right;
+	clear: right;
+	padding: 5px;
+	position: absolute;
+	top: 493px;
+	left: 660px;
+	height: 355px;
+}
+
+h2.langhead {
+	color: #379683;
+	font-size: 40px;
+	text-align: center;
+	margin: 2px;
+}
+
+p.langpara {
+	color: #14a760;
+	font-size: 20px;
+	padding: 1px;
+}
+
+#imagereligion {
+	float: right;
+	clear: right;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+    margin-right: 10px;
+    margin-top: 0px;
+    position: absolute;
+    top: 900px;
+    left: 720px;
+}
+
+#imagereligion:hover {
+	opacity: 0.6;
+}
+
+#religion {
+	background-color: #edf5e1;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 690px;
+	height: 440px;
+	border-radius: 9px; 
+	padding: 5px;
+}
+
+h2.relhead {
+	color: #379683;
+	font-size: 50px;
+	text-align: center;
+	margin: 2px;
+}
+
+p.relpara {
+	color: #14a760;
+	font-size: 23px;
+	padding: 3px;
+}
+
+#imageclothes {
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 0px;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+}
+
+#imageclothes:hover {
+	opacity: 0.6;
+}
+
+#clothes {
+	background-color: #edf5e1;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	/*width: 740px;*/
+	border-radius: 9px; 
+	float: right;
+	clear: right;
+	padding: 5px;
+	position: absolute;
+	top: 1328px;
+	left: 580px;
+	height: 357px;
+}
+
+h2.clotheshead {
+	color: #379683;
+	font-size: 40px;
+	text-align: center;
+	margin: 2px;
+}
+
+p.clothespara {
+	color: #14a760;
+	font-size: 20px;
+	padding: 1px;
+}
+
+#imageart {
+	float: right;
+	clear: right;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+    margin-right: 10px;
+    margin-top: 0px;
+    position: absolute;
+    top: 1735px;
+    left: 890px;
+}
+
+#imageart:hover {
+	opacity: 0.6;
+}
+
+#art {
+	background-color: #edf5e1;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 850px;
+	height: 440px;
+	border-radius: 9px; 
+	padding: 5px;
+}
+
+h2.arthead {
+	color: #379683;
+	font-size: 43px;
+	text-align: center;
+	margin: 2px;
+}
+
+p.artpara {
+	color: #14a760;
+	font-size: 27px;
+	padding: 3px;
+}
+
+#imagechufaat {
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 0px;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+}
+
+#imagechufaat:hover {
+	opacity: 0.6;
+}
+
+#chufaat {
+	background-color: #edf5e1;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 0px;
+	/*width: 690px;*/
+	border-radius: 9px; 
+	float: right;
+	clear: right;
+	padding: 5px;
+	position: absolute;
+	top: 2168px;
+	left: 640px;
+	height: 362px;
+}
+
+h2.chuhead {
+	color: #379683;
+	font-size: 50px;
+	text-align: center;
+	margin: 5px;
+}
+
+p.chupara {
+	color: #14a760;
+	font-size: 27px;
+	padding: 6px;
+}
+
+#imagezomal {
+	float: right;
+	clear: right;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+    margin-right: 10px;
+    margin-top: 0px;
+    position: absolute;
+    top: 2580px;
+    left: 720px;
+}
+
+#imagezomal:hover {
+	opacity: 0.6;
+}
+
+#zomallok {
+	background-color: #edf5e1;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 690px;
+	height: 375px;
+	border-radius: 9px; 
+	padding: 5px;
+}
+
+h2.zomalhead {
+	color: #379683;
+	font-size: 55px;
+	text-align: center;
+	margin: 4px;
+}
+
+p.zomalpara {
+	color: #14a760;
+	font-size: 26px;
+	padding: 4px;
+}
+
+#tendonglhorumfaat {
+	background-color: #edf5e1;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 0px;
+	/*width: 700px;*/
+	border-radius: 9px; 
+	float: right;
+	clear: right;
+	padding: 5px;
+	position: absolute;
+	top: 2950px;
+	left: 630px;
+	height: 368px;
+}
+
+h2.tendonghead {
+	color: #379683;
+	font-size: 50px;
+	text-align: center;
+	margin: 5px;
+}
+
+p.tendongpara {
+	color: #14a760;
+	font-size: 20px;
+	padding: 6px;
+}
+
+#imagetendong {
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 0px;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+}
+
+#imagetendong:hover {
+	opacity: 0.6;
+}
+
+#links {
+	background-color: #edf5e1;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border-radius: 9px; 
+	padding: 2px;
+	height: 355px;
+}
+
+#links a img {
+	display: inline;
+	float: left;
+	margin-left:10px;
+    margin-right:10px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 80px;
+	padding-left: 50px;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+}
+
+#links a img:hover {
+	opacity: 0.6;
+}
+
+h2.linkmainhead {
+	color: #379683;
+	font-size: 45px;
+	text-align: center;
+	margin: 4px;
+}
+
+h3.homelinkhead{
+	float: right;
+    position: absolute;
+    top: 3645px;
+    left: 160px;
+    color: #14a760;
+    font-size: 20px; 
+}
+
+h3.bhutialinkhead{
+	float: center;
+    position: absolute;
+    top: 3645px;
+    left: 490px; 
+    color: #14a760;
+    font-size: 20px; 
+}
+
+h3.nepalilinkhead{
+	float: left;
+    position: absolute;
+    top: 3645px;
+    left: 920px; 
+    color: #14a760;
+    font-size: 20px; 
+}

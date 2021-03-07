@@ -1,0 +1,389 @@
+body {
+background-color: /*#61892f*//*#24305e*//*#88bdbc*//*#254e58*/#41b3a3;
+margin: 0px;
+font-family: "Maiandra GD" , helvetica , arial;
+font-size: 14px;
+}
+
+#header {
+	background-color: #8ee4af;
+	height: 85px;
+	border-radius: 9px;
+	margin: 10px;
+}
+
+h1 {
+	font-size: 65px;
+	color: #379683;
+	text-align: center;
+	padding: 1px;
+}
+
+#navbar {
+	background-color: #edf5e1;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 400px;
+	border-radius: 9px; 
+	padding: 2px;
+}
+
+#navbar ol{
+	font-size: 20px;
+	color: #5cdb95;
+}
+
+#navbar ol li{
+	padding: 2px;
+}
+
+#navbar ol li a{
+	padding: 2px;
+	color: #5cdb95;
+}
+
+#navbar ol li a:hover{
+	color: #edf5e1;
+	background-color: #5cdb95;
+}
+
+h2.conhead {
+	text-align: center;
+	color: #379683;
+	font-size: 25px;
+}
+
+#origin {
+	background-color: #edf5e1;
+	height: 200px;
+	/*width: 914px;*/
+	border-radius: 9px; 
+	padding: 2px;
+    position: absolute;
+    top: 150px;
+    left: 425px;
+    margin-right: 10px;
+}
+
+h2.originhead {
+	color: #379683;
+	font-size: 45px;
+	text-align: center;
+	margin: 2px;
+}
+
+.originpara {
+	color: #14a760;
+	font-size: 20px;
+	padding: 1px;
+	padding-left: 3px;
+}
+
+#imagepeople {
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+	margin-top: 0px;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+}
+
+#imagepeople:hover {
+	opacity: 0.6;
+}
+
+#language {
+	background-color: #edf5e1;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 0px;
+	/*width: 908px;*/
+	border-radius: 9px; 
+	float: right;
+	clear: right;
+	padding: 5px;
+	position: absolute;
+	top: 340px;
+	left: 425px;
+	height: 290px;
+}
+
+h2.langhead {
+	color: #379683;
+	font-size: 40px;
+	text-align: center;
+	margin: 2px;
+}
+
+p.langpara {
+	color: #14a760;
+	font-size: 20px;
+	padding: 1px;
+}
+
+#imagereligion {
+	float: right;
+	clear: right;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+    margin-right: 10px;
+    margin-top: 0px;
+    position: absolute;
+    top: 680px;
+    left: 830px;
+}
+
+#imagereligion:hover {
+	opacity: 0.6;
+}
+
+#religion {
+	background-color: #edf5e1;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 800px;
+	height: 440px;
+	border-radius: 9px; 
+	padding: 5px;
+}
+
+h2.relhead {
+	color: #379683;
+	font-size: 50px;
+	text-align: center;
+	margin: 2px;
+}
+
+p.relpara {
+	color: #14a760;
+	font-size: 19px;
+	padding: 3px;
+}
+
+#festival {
+	background-color: #edf5e1;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 890px;
+	height: 560px;
+	border-radius: 9px; 
+	padding: 5px;
+  }
+
+h2.festivalhead {
+	color: #379683;
+	font-size: 40px;
+	text-align: center;
+	margin: 2px;
+}
+
+p.festivalpara {
+	color: #14a760;
+	font-size: 18px;
+	padding: 1px;
+}
+
+#imagefestival {
+	float: right;
+	clear: right;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+    margin-right: 10px;
+    margin-top: 0px;
+    position: absolute;
+    top: 1135px;
+    left: 930px;
+}
+
+#imagereligion:hover {
+	opacity: 0.6;
+}
+
+#maruni {
+	background-color: #edf5e1;
+	height: 297px;
+	/*width: 914px;*/
+	border-radius: 9px; 
+	padding: 2px;
+    position: absolute;
+    top: 1720px;
+    left: 425px;
+    margin-right: 10px;
+}
+
+h2.marunihead {
+	color: #379683;
+	font-size: 45px;
+	text-align: center;
+	margin: 2px;
+}
+
+.marunipara {
+	color: #14a760;
+	font-size: 23px;
+	padding: 1px;
+	padding-left: 3px;
+}
+
+#imagemaruni {
+
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+#imagemaruni:hover {
+	opacity: 0.6;
+}
+
+#dhaannach {
+	background-color: #edf5e1;
+	height: 293px;
+	width: 914px;
+	border-radius: 9px; 
+	padding: 2px;
+    margin: 10PX;
+}
+
+h2.dhaanhead {
+	color: #379683;
+	font-size: 45px;
+	text-align: center;
+	margin: 2px;
+}
+
+.dhaanpara {
+	color: #14a760;
+	font-size: 23px;
+	padding: 1px;
+	padding-left: 3px;
+}
+
+#imagedhaannach {
+
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    position: absolute;
+    top: 2021px;
+    left: 935px;
+}
+
+#imagedhaannach:hover {
+	opacity: 0.6;
+}
+
+#lakhey {
+	background-color: #edf5e1;
+	height: 195px;
+	/*width: 1020px;*/
+	border-radius: 9px; 
+	padding: 2px;
+    position: absolute;
+    top: 2340px;
+    left: 320px;
+    margin-right: 10px;
+}
+
+h2.lakheyhead {
+	color: #379683;
+	font-size: 45px;
+	text-align: center;
+	margin: 2px;
+}
+
+.lakheypara {
+	color: #14a760;
+	font-size: 23px;
+	padding: 1px;
+	padding-left: 3px;
+}
+
+#imagelakhey {
+
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#imagelakhey:hover {
+	opacity: 0.6;
+}
+
+
+#links {
+	background-color: #edf5e1;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border-radius: 9px; 
+	padding: 2px;
+	height: 355px;
+}
+
+#links a img {
+	display: inline;
+	float: left;
+	margin-left:10px;
+    margin-right:10px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 80px;
+	padding-left: 50px;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+}
+
+#links a img:hover {
+	opacity: 0.6;
+}
+
+h2.linkmainhead {
+	color: #379683;
+	font-size: 45px;
+	text-align: center;
+	margin: 4px;
+}
+
+h3.homelinkhead{
+	float: right;
+    position: absolute;
+    top: 2810px;
+    left: 160px;
+    color: #14a760;
+    font-size: 21px; 
+}
+
+h3.lepchalinkhead {
+	float: center;
+    position: absolute;
+    top: 2810px;
+    left: 490px; 
+    color: #14a760;
+    font-size: 21px; 
+}
+
+h3.bhutialinkhead{
+	float: left;
+    position: absolute;
+    top: 2810px;
+    left: 920px; 
+    color: #14a760;
+    font-size: 21px; 
+}

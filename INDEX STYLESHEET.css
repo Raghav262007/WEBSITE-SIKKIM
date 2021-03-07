@@ -1,0 +1,239 @@
+body {
+background-color: /*#61892f*//*#24305e*//*#88bdbc*//*#254e58*/#41b3a3;
+margin: 0px;
+font-family: "Maiandra GD" , helvetica , arial;
+font-size: 14px;
+}
+
+#header {
+	background-color: #8ee4af;
+	height: 85px;
+	border-radius: 9px;
+	margin: 10px;
+}
+
+h1 {
+	font-size: 65px;
+	color: #379683;
+	text-align: center;
+	padding: 1px;
+}
+
+#navbar {
+	background-color: #edf5e1;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 400px;
+	border-radius: 9px; 
+	padding: 2px;
+}
+
+#navbar ol{
+	font-size: 20px;
+	color: #5cdb95;
+}
+
+#navbar ol li{
+	padding: 2px;
+}
+
+#navbar ol li a{
+	padding: 2px;
+	color: #5cdb95;
+}
+
+#navbar ol li a:hover{
+	color: #edf5e1;
+	background-color: #5cdb95;
+}
+
+h2.conhead {
+	text-align: center;
+	color: #379683;
+	font-size: 25px;
+}
+
+#infosikkim {
+	background-color: #edf5e1;
+	height: 315px;
+	/*width: 914px;*/
+	border-radius: 9px; 
+	padding: 2px;
+    position: absolute;
+    top: 150px;
+    left: 425px;
+    margin-right: 10px;
+}
+
+h2.culthead {
+	color: #379683;
+	font-size: 40px;
+	text-align: center;
+	margin: 2px;
+}
+
+p.cultpara {
+	color: #14a760;
+	font-size: 17px;
+	padding: 1px;
+}
+
+#imageculture {
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 0px;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+}
+
+#imageculture:hover {
+	opacity: 0.6;
+}
+
+#folkdance {
+	background-color: #edf5e1;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	/*width: 645px;*/
+	border-radius: 9px; 
+	float: right;
+	clear: right;
+	padding: 5px;
+	position: absolute;
+	top: 492px;
+	left: 675px;
+	height: 355px;
+}
+
+h2.folkhead {
+	color: #379683;
+	font-size: 40px;
+	text-align: center;
+	margin: 2px;
+}
+
+p.folkpara {
+	color: #14a760;
+	font-size: 20px;
+	padding: 1px;
+}
+
+#folkimage {
+	float: right;
+	clear: right;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+    margin-right: 10px;
+    margin-top: 0px;
+    position: absolute;
+    top: 872px;
+    left: 720px;
+}
+
+#folkimage:hover {
+	opacity: 0.6;
+}
+
+#dancecommunities {
+	background-color: #edf5e1;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 675px;
+	height: 440px;
+	border-radius: 9px; 
+	padding: 5px;
+}
+
+h2.communityhead {
+	color: #379683;
+	font-size: 40px;
+	text-align: center;
+	margin: 2px;
+}
+
+.communitypara {
+	color: #14a760;
+	font-size: 20px;
+	padding: 1px;
+}
+
+ol li {
+    color: #14a760;
+	font-size: 20px;
+	padding: 1px;	
+}
+
+#logo {
+	margin-left: 50px;
+}
+
+h2.linkmainhead {
+	color: #379683;
+	font-size: 45px;
+	text-align: center;
+	margin: 4px;
+}
+
+#links {
+	background-color: #edf5e1;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border-radius: 9px; 
+	padding: 2px;
+	height: 355px;
+}
+
+#links a img {
+	display: inline;
+	float: left;
+	margin-left:10px;
+    margin-right:10px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 80px;
+	padding-left: 50px;
+	opacity: 1.0;
+    transition: opacity 0.1s ease-in-out;
+}
+
+#links a img:hover {
+	opacity: 0.6;
+}
+
+h3.lepchalinkhead{
+	float: right;
+    position: absolute;
+    top: 1640px;
+    left: 60px;
+    color: #14a760;
+    font-size: 20px; 
+}
+
+h3.bhutialinkhead{
+	float: center;
+    position: absolute;
+    top: 1640px;
+    left: 490px; 
+    color: #14a760;
+    font-size: 20px; 
+}
+
+h3.nepalilinkhead{
+	float: left;
+    position: absolute;
+    top: 1640px;
+    left: 920px; 
+    color: #14a760;
+    font-size: 20px; 
+}
